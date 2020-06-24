@@ -1,2 +1,2 @@
-# NetworkNeuroscience
+# Network Neuroscience
 Lin meets Neuron
